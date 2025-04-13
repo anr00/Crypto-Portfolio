@@ -1,0 +1,40 @@
+C:\Users\anr\source\repos\Crypto Portfolio\bin\Debug\net9.0-windows\Crypto Portfolio.exe
+C:\Users\anr\source\repos\Crypto Portfolio\bin\Debug\net9.0-windows\Crypto Portfolio.deps.json
+C:\Users\anr\source\repos\Crypto Portfolio\bin\Debug\net9.0-windows\Crypto Portfolio.runtimeconfig.json
+C:\Users\anr\source\repos\Crypto Portfolio\bin\Debug\net9.0-windows\Crypto Portfolio.dll
+C:\Users\anr\source\repos\Crypto Portfolio\bin\Debug\net9.0-windows\Crypto Portfolio.pdb
+C:\Users\anr\source\repos\Crypto Portfolio\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.csproj.AssemblyReference.cache
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.csproj.GenerateResource.cache
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.AssemblyInfoInputs.cache
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.AssemblyInfo.cs
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto P.B92E91C6.Up2Date
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.dll
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\refint\Crypto Portfolio.dll
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.pdb
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.genruntimeconfig.cache
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\ref\Crypto Portfolio.dll
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto_Portfolio.Main.resources
+C:\Users\anr\source\repos\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto_Portfolio.Views.Portfolio.resources
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.csproj.AssemblyReference.cache
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto_Portfolio.Main.resources
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto_Portfolio.Views.Portfolio.resources
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.csproj.GenerateResource.cache
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.AssemblyInfoInputs.cache
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.AssemblyInfo.cs
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.dll
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\refint\Crypto Portfolio.dll
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.pdb
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\bin\Debug\net9.0-windows\Crypto Portfolio.exe
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\bin\Debug\net9.0-windows\Crypto Portfolio.deps.json
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\bin\Debug\net9.0-windows\Crypto Portfolio.runtimeconfig.json
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\bin\Debug\net9.0-windows\Crypto Portfolio.dll
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\bin\Debug\net9.0-windows\Crypto Portfolio.pdb
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto P.B92E91C6.Up2Date
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\Crypto Portfolio.genruntimeconfig.cache
+C:\Users\anr\source\repos\Crypto Portfolio\Crypto Portfolio\obj\Debug\net9.0-windows\ref\Crypto Portfolio.dll
