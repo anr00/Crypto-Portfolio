@@ -9,4 +9,4 @@ Live prices are fetched asynchronously from the CoinLore API, and portfolio perf
 ![2 5](https://github.com/user-attachments/assets/0d3b7ba0-b99e-433b-bdd9-d8c64803c507)
 ![3](https://github.com/user-attachments/assets/0677cbf1-9611-46c9-89f0-7f61df3e457e)
 
-<img src="https://github.com/user-attachments/assets/0677cbf1-9611-46c9-89f0-7f61df3e457e" width="200"/>
+<img src="https://github.com/user-attachments/assets/0677cbf1-9611-46c9-89f0-7f61df3e457e" width="400"/>
